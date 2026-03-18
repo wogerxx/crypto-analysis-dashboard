@@ -1,6 +1,4 @@
-#!/bin/sh
-'''exec' "/home/wogerxx/projects/crypto analyze/files(1)/venv/bin/python3" "$0" "$@"
-' '''
+#!/home/wogerxx/projects/crypto-analysis-dashboard/crypto-analysis/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
